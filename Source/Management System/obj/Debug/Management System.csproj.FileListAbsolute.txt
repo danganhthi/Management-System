@@ -1,0 +1,148 @@
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.csproj.AssemblyReference.cache
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.csproj.SuggestedBindingRedirects.cache
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Bill\BillPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Dashboard.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Event\EventPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Custom\ImportFromExcel.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Bill\NewBillPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\NewProductPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Custom\Dialog.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\HomePage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Login.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\ProductDetailPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\ProductPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\ProductType\ProductTypePage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticGrowing.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticPage.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticProduct.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticProfit.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\App.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System_Content.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System_MarkupCompile.cache
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System_MarkupCompile.lref
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\App.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Bill\BillPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Dashboard.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Event\EventPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Custom\ImportFromExcel.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Bill\NewBillPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\NewProductPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Custom\Dialog.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\HomePage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Login.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\ProductDetailPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Product\ProductPage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\ProductType\ProductTypePage.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticGrowing.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticProduct.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Statistic\StatisticProfit.baml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.g.resources
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.pdb
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Management System.exe.config
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Management System.exe
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Management System.pdb
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Aspose.Cells.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\EntityFramework.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\MaterialDesignColors.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.Core.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.Linq.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.ValueTuple.dll
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Aspose.Cells.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\EntityFramework.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\MaterialDesignColors.pdb
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.Core.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Reactive.Linq.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\bin\Debug\System.ValueTuple.xml
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management_System.Properties.Resources.resources
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.csproj.GenerateResource.cache
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.csproj.CoreCompileInputs.cache
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.csproj.CopyComplete
+D:\C#\Reference Project\wpf-management-system-master\Management System\Source\Management System\obj\Debug\Management System.exe
+D:\Management System\Source\Management System\bin\Debug\Management System.exe.config
+D:\Management System\Source\Management System\bin\Debug\Management System.exe
+D:\Management System\Source\Management System\bin\Debug\Management System.pdb
+D:\Management System\Source\Management System\bin\Debug\Aspose.Cells.dll
+D:\Management System\Source\Management System\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Management System\Source\Management System\bin\Debug\EntityFramework.dll
+D:\Management System\Source\Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\Management System\Source\Management System\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\Management System\Source\Management System\bin\Debug\MaterialDesignColors.dll
+D:\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Management System\Source\Management System\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.Core.dll
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.dll
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.Linq.dll
+D:\Management System\Source\Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Management System\Source\Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Management System\Source\Management System\bin\Debug\System.ValueTuple.dll
+D:\Management System\Source\Management System\bin\Debug\Aspose.Cells.xml
+D:\Management System\Source\Management System\bin\Debug\EntityFramework.xml
+D:\Management System\Source\Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\Management System\Source\Management System\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\Management System\Source\Management System\bin\Debug\MaterialDesignColors.pdb
+D:\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Management System\Source\Management System\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Management System\Source\Management System\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.xml
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.Core.xml
+D:\Management System\Source\Management System\bin\Debug\System.Reactive.Linq.xml
+D:\Management System\Source\Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Management System\Source\Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Management System\Source\Management System\bin\Debug\System.ValueTuple.xml
+D:\Management System\Source\Management System\obj\Debug\Management System.csproj.AssemblyReference.cache
+D:\Management System\Source\Management System\obj\Debug\Management System.csproj.SuggestedBindingRedirects.cache
+D:\Management System\Source\Management System\obj\Debug\Bill\BillPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Dashboard.g.cs
+D:\Management System\Source\Management System\obj\Debug\Event\EventPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Custom\ImportFromExcel.g.cs
+D:\Management System\Source\Management System\obj\Debug\Bill\NewBillPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Product\NewProductPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Custom\Dialog.g.cs
+D:\Management System\Source\Management System\obj\Debug\HomePage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Login.g.cs
+D:\Management System\Source\Management System\obj\Debug\Product\ProductDetailPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\Product\ProductPage.g.cs
+D:\Management System\Source\Management System\obj\Debug\ProductType\ProductTypePage.g.cs
+D:\Management System\Source\Management System\obj\Debug\App.g.cs
+D:\Management System\Source\Management System\obj\Debug\Management System_Content.g.cs
+D:\Management System\Source\Management System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Management System\Source\Management System\obj\Debug\Management System_MarkupCompile.cache
+D:\Management System\Source\Management System\obj\Debug\Management System_MarkupCompile.lref
+D:\Management System\Source\Management System\obj\Debug\App.baml
+D:\Management System\Source\Management System\obj\Debug\Bill\BillPage.baml
+D:\Management System\Source\Management System\obj\Debug\Dashboard.baml
+D:\Management System\Source\Management System\obj\Debug\Event\EventPage.baml
+D:\Management System\Source\Management System\obj\Debug\Custom\ImportFromExcel.baml
+D:\Management System\Source\Management System\obj\Debug\Bill\NewBillPage.baml
+D:\Management System\Source\Management System\obj\Debug\Product\NewProductPage.baml
+D:\Management System\Source\Management System\obj\Debug\Custom\Dialog.baml
+D:\Management System\Source\Management System\obj\Debug\HomePage.baml
+D:\Management System\Source\Management System\obj\Debug\Login.baml
+D:\Management System\Source\Management System\obj\Debug\Product\ProductDetailPage.baml
+D:\Management System\Source\Management System\obj\Debug\Product\ProductPage.baml
+D:\Management System\Source\Management System\obj\Debug\ProductType\ProductTypePage.baml
+D:\Management System\Source\Management System\obj\Debug\Management System.g.resources
+D:\Management System\Source\Management System\obj\Debug\Management_System.Properties.Resources.resources
+D:\Management System\Source\Management System\obj\Debug\Management System.csproj.GenerateResource.cache
+D:\Management System\Source\Management System\obj\Debug\Management System.csproj.CoreCompileInputs.cache
+D:\Management System\Source\Management System\obj\Debug\Management System.csproj.CopyComplete
+D:\Management System\Source\Management System\obj\Debug\Management System.exe
+D:\Management System\Source\Management System\obj\Debug\Management System.pdb
