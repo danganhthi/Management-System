@@ -1,0 +1,70 @@
+D:\Management System\Source\Management System\bin\Release\Management System.exe.config
+D:\Management System\Source\Management System\bin\Release\Management System.exe
+D:\Management System\Source\Management System\bin\Release\Management System.pdb
+D:\Management System\Source\Management System\bin\Release\Aspose.Cells.dll
+D:\Management System\Source\Management System\bin\Release\De.TorstenMandelkow.MetroChart.dll
+D:\Management System\Source\Management System\bin\Release\EntityFramework.dll
+D:\Management System\Source\Management System\bin\Release\EntityFramework.SqlServer.dll
+D:\Management System\Source\Management System\bin\Release\InteractiveDataDisplay.WPF.dll
+D:\Management System\Source\Management System\bin\Release\MaterialDesignColors.dll
+D:\Management System\Source\Management System\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Management System\Source\Management System\bin\Release\Microsoft.Maps.MapControl.WPF.dll
+D:\Management System\Source\Management System\bin\Release\System.Reactive.Core.dll
+D:\Management System\Source\Management System\bin\Release\System.Reactive.dll
+D:\Management System\Source\Management System\bin\Release\System.Reactive.Linq.dll
+D:\Management System\Source\Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Management System\Source\Management System\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Management System\Source\Management System\bin\Release\System.ValueTuple.dll
+D:\Management System\Source\Management System\bin\Release\Aspose.Cells.xml
+D:\Management System\Source\Management System\bin\Release\EntityFramework.xml
+D:\Management System\Source\Management System\bin\Release\EntityFramework.SqlServer.xml
+D:\Management System\Source\Management System\bin\Release\InteractiveDataDisplay.WPF.pdb
+D:\Management System\Source\Management System\bin\Release\MaterialDesignColors.pdb
+D:\Management System\Source\Management System\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Management System\Source\Management System\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Management System\Source\Management System\bin\Release\Microsoft.Maps.MapControl.WPF.xml
+D:\Management System\Source\Management System\bin\Release\System.Reactive.xml
+D:\Management System\Source\Management System\bin\Release\System.Reactive.Core.xml
+D:\Management System\Source\Management System\bin\Release\System.Reactive.Linq.xml
+D:\Management System\Source\Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Management System\Source\Management System\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Management System\Source\Management System\bin\Release\System.ValueTuple.xml
+D:\Management System\Source\Management System\obj\Release\Management System.csproj.AssemblyReference.cache
+D:\Management System\Source\Management System\obj\Release\Management System.csproj.SuggestedBindingRedirects.cache
+D:\Management System\Source\Management System\obj\Release\Bill\BillPage.g.cs
+D:\Management System\Source\Management System\obj\Release\Dashboard.g.cs
+D:\Management System\Source\Management System\obj\Release\Event\EventPage.g.cs
+D:\Management System\Source\Management System\obj\Release\Custom\ImportFromExcel.g.cs
+D:\Management System\Source\Management System\obj\Release\Bill\NewBillPage.g.cs
+D:\Management System\Source\Management System\obj\Release\Product\NewProductPage.g.cs
+D:\Management System\Source\Management System\obj\Release\Custom\Dialog.g.cs
+D:\Management System\Source\Management System\obj\Release\HomePage.g.cs
+D:\Management System\Source\Management System\obj\Release\Login.g.cs
+D:\Management System\Source\Management System\obj\Release\Product\ProductDetailPage.g.cs
+D:\Management System\Source\Management System\obj\Release\Product\ProductPage.g.cs
+D:\Management System\Source\Management System\obj\Release\ProductType\ProductTypePage.g.cs
+D:\Management System\Source\Management System\obj\Release\App.g.cs
+D:\Management System\Source\Management System\obj\Release\Management System_Content.g.cs
+D:\Management System\Source\Management System\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Management System\Source\Management System\obj\Release\Management System_MarkupCompile.cache
+D:\Management System\Source\Management System\obj\Release\Management System_MarkupCompile.lref
+D:\Management System\Source\Management System\obj\Release\App.baml
+D:\Management System\Source\Management System\obj\Release\Bill\BillPage.baml
+D:\Management System\Source\Management System\obj\Release\Dashboard.baml
+D:\Management System\Source\Management System\obj\Release\Event\EventPage.baml
+D:\Management System\Source\Management System\obj\Release\Custom\ImportFromExcel.baml
+D:\Management System\Source\Management System\obj\Release\Bill\NewBillPage.baml
+D:\Management System\Source\Management System\obj\Release\Product\NewProductPage.baml
+D:\Management System\Source\Management System\obj\Release\Custom\Dialog.baml
+D:\Management System\Source\Management System\obj\Release\HomePage.baml
+D:\Management System\Source\Management System\obj\Release\Login.baml
+D:\Management System\Source\Management System\obj\Release\Product\ProductDetailPage.baml
+D:\Management System\Source\Management System\obj\Release\Product\ProductPage.baml
+D:\Management System\Source\Management System\obj\Release\ProductType\ProductTypePage.baml
+D:\Management System\Source\Management System\obj\Release\Management System.g.resources
+D:\Management System\Source\Management System\obj\Release\Management_System.Properties.Resources.resources
+D:\Management System\Source\Management System\obj\Release\Management System.csproj.GenerateResource.cache
+D:\Management System\Source\Management System\obj\Release\Management System.csproj.CoreCompileInputs.cache
+D:\Management System\Source\Management System\obj\Release\Management System.csproj.CopyComplete
+D:\Management System\Source\Management System\obj\Release\Management System.exe
+D:\Management System\Source\Management System\obj\Release\Management System.pdb

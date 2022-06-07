@@ -215,6 +215,11 @@ namespace Management_System
             CountMoneyWillGet(null, null);
         }
 
+
+
+
+
+
         /// <summary>
         /// Sự kiện khi chọn phương thức thanh toán (tắt các Control không liên quan)
         /// </summary>

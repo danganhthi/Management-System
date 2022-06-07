@@ -132,7 +132,7 @@
                     </GridViewColumn>
                     <!--Cột Tên khách hàng-->
                     <GridViewColumn
-                        Width="155"
+                        Width="130"
                         DisplayMemberBinding="{Binding Name}">
                         <GridViewColumn.HeaderTemplate>
                             <DataTemplate>
@@ -155,7 +155,7 @@
                     </GridViewColumn>
                     <!--Cột Mã SP-->
                     <GridViewColumn
-                        Width="135"
+                        Width="120"
                         DisplayMemberBinding="{Binding ProductId}">
                         <GridViewColumn.HeaderTemplate>
                             <DataTemplate>
@@ -178,7 +178,7 @@
                     </GridViewColumn>
                     <!--Cột Giá bán-->
                     <GridViewColumn
-                        Width="135"
+                        Width="145"
                         DisplayMemberBinding="{Binding FinalPrice, Converter={StaticResource PriceConverter}}">
                         <GridViewColumn.HeaderTemplate>
                             <DataTemplate>

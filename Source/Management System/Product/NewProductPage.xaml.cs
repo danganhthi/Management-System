@@ -47,6 +47,7 @@ namespace Management_System
         }
 
 
+
         public NewProductPage(Product product)
         {
             InitializeComponent();
@@ -94,6 +95,10 @@ namespace Management_System
             });
             thread.Start();
         }
+
+
+
+
 
         #region Xử lý hiệu ứng Comboxbox
         /// <summary>
